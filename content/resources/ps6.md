@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-942-cosmology-fall-2001/82acc90354251e071e2b259e91f1e28f_ps6.pdf
 file_type: application/pdf
+parent_uid: e22e23c9-066d-0773-f421-33eca45ab16d
 resourcetype: Document
 title: ps6.pdf
 uid: 82acc903-5425-1e07-1e2b-259e91f1e28f
